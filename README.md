@@ -8,4 +8,4 @@ This repository is dedicated to the design and development of a RISC-V decoder. 
 
 ## Documentation
 
-To review the full development history and additional documentation, please refer to the main project repository at [Computer-Architecture on GitHub](https://github.com/DavidN0809/Computer-Architecture).
+To review the full development history and additional documentation, please refer to the main project repository at [Computer-Architecture on GitHub][https://github.com/Cameron29a/ECGR_5181].
