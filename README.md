@@ -4,7 +4,7 @@ This repository is dedicated to the design and development of a RISC-V decoder. 
 
 ## Project Highlights
 
-- **RISC-V Instruction Set**: The decoder is meticulously crafted to understand and execute a subset of the RISC-V instruction set, ensuring precise operation within the CPU simulation.
+- **RISC-V Instruction Set**: RISC-V ISA (RV32I, RV32F and RV32M)
 
 ## Documentation
 
